@@ -6,4 +6,4 @@ pack_time=$(date +%Y-%m-%d-%H-%M-%S)    # 构建时间
 pack_name=build-$pack_time              # 压缩包名称
 
 git add -A && git commit -am "$pack_name"
-#git push origin master                  # 提交
+git push origin master                  # 提交
