@@ -17,8 +17,8 @@ ul {
     padding: 0;
 }
 li {
-    margin-top: 20px;
-    border-bottom: 1px solid #888;
+    margin-top: 10px;
+    /* border-bottom: 1px solid #888; */
     display: block;
 }
 pre {
