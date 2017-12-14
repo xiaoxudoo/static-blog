@@ -49,3 +49,6 @@ pre {
 .post-title:hover {
     color: #f00;
 }
+img {
+    width: 100%;
+}
